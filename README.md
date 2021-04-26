@@ -1,4 +1,6 @@
 # planner-python-tk
  SImple planner with TK python
 
-![simplePlanner](https://user-images.githubusercontent.com/50261098/116070963-ebb86400-a695-11eb-9031-0c0c68e0e8dd.png)
+<br>
+<img src="https://user-images.githubusercontent.com/50261098/116071220-4b167400-a696-11eb-9f95-09faf68c8805.png" alt="planner" width="60">
+
